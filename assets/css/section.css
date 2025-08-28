@@ -19,3 +19,8 @@ section {
     font-size: 1.5rem;
     font-weight: 800;
 }
+
+.technology__title {
+    font-size: 2rem;
+    font-family: "Luckiest Guy", cursive;
+}
