@@ -2,7 +2,7 @@
 
 header {
     width: 100%;
-    height: 60vh;
+    height: 57vh;
     padding: 5rem 2rem 0;
     display: flex;
     flex-direction: column;
@@ -13,8 +13,8 @@ header {
 
 header::before {
     content: '';
-    width: 165%;
-    height: 100%;
+    width: 160%;
+    height: 95%;
     background: url('../images/header_background.png');
     background-size: cover;
     background-repeat: no-repeat;
