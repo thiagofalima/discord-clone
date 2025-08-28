@@ -5,7 +5,7 @@
 
 ## 💻 Tecnologias
 
-Este projeto foi construído do zero utilizando as seguintes tecnologias:
+Este projeto foi construído do zero utilizando a abordagem **Mobile First** e as seguintes tecnologias:
 
 - **HTML5**: Estrutura e marcação semântica.
 - **CSS3**: Estilização, flexbox para alinhamento e técnicas de responsividade.
@@ -31,7 +31,7 @@ Para ver este projeto em ação na sua máquina, siga os passos abaixo:
 
 ## 💻 Technologies
 
-This project was built from scratch using the following technologies:
+This project was built from scratch using the **Mobile First** method and the following technologies:
 
 - **HTML5**: Semantic structure and markup.
 - **CSS3**: Styling, flexbox for alignment, and responsive design techniques.
