@@ -24,3 +24,43 @@ section {
     font-size: 2rem;
     font-family: "Luckiest Guy", cursive;
 }
+
+@media screen and (min-width: 768px) {
+    section {
+        height: 55vh;
+        width: 100%;
+        padding: 2rem 10rem;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    section img {
+        height: 100%;
+    }
+
+    .section__title {
+        font-size: 2.5rem;
+    }
+
+    .section__title,
+    .section__text {
+        width: 30%;
+    }
+
+    .section-voice {
+        flex-wrap: wrap-reverse;
+    }
+
+    .section__technology {
+        height: auto;
+        display:flex;
+        flex-direction: column;
+    }
+
+    .section__technology img {
+        height: 400px;
+    }
+
+
+}
