@@ -42,7 +42,26 @@ header {
 
 @media screen and (min-width: 768px) {
     header {
-        display: inline-block;
+        height: auto;
+        padding: 2.5rem;
         text-align: center;
+        display: inline-block;
+        background-position: center center;
+    }
+
+    .header__title,
+    .header__text {
+        margin: 1rem auto;
+    }
+
+    .header__title {
+        width: 25%;
+    }
+    .header__text {
+        width: 80%;
+    }
+
+    .header__button {
+        margin: 0 .5rem;
     }
 }
